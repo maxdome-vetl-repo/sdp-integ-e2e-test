@@ -1,0 +1,7 @@
+name: Untitled_1790709269768
+storage: s3://amazon-sagemaker-585008049278-us-west-2-636nrevgfb7h1s/sys/glue/pipeline-checkpoints/
+libraries:
+  - glob:
+      include: transformations/**
+configuration:
+  spark.sql.shuffle.partitions: '4'

@@ -36,7 +36,7 @@
       "MaxConcurrentRuns": 1
     },
     "WorkerType": "G.1X",
-    "NumberOfWorkers": 10,
+    "NumberOfWorkers": 12,
     "GlueVersion": "6.0",
     "ExecutionClass": "STANDARD",
     "JobMode": "SCRIPT",
